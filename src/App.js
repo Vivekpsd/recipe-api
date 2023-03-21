@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import Header from "./components/Header";
 import RecipeLists from "./components/RecipeLists";
 import Tabs from "./components/Tabs";
