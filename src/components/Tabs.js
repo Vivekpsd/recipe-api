@@ -16,7 +16,7 @@ function Tabs(props) {
       id: "a243e3cd56da95b31e5a86ef52578908",
     },
     {
-      name: "Desert",
+      name: "Dessert",
       icon: <GiFruitBowl />,
       id: "eb3e2b49525a0c8ce7327436f843321a",
     },
